@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/build/intermediates/res/merged/debug/layout-large-v4/news_articles.xml",
+        "source": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/src/main/res/layout-large/news_articles.xml"
+    },
+    {
+        "merged": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/build/intermediates/res/merged/debug/layout-large-v4/carbonfootprint_articles.xml",
+        "source": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/src/main/res/layout-large/carbonfootprint_articles.xml"
+    }
+]

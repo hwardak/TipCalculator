@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/build/intermediates/res/merged/debug/layout-land/adduser_view.xml",
+        "source": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/src/main/res/layout-land/adduser_view.xml"
+    },
+    {
+        "merged": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/build/intermediates/res/merged/debug/layout-land/userdetail_view.xml",
+        "source": "/Users/HWardak/AndriodStudioProjects/TipCalculator/app/src/main/res/layout-land/userdetail_view.xml"
+    }
+]
